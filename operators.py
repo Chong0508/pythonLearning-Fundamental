@@ -45,3 +45,24 @@ print(False and 'hey') # False
 print('hi' and 'hey') # 'hey'
 print([] and False) # []
 print(False and []) # False
+
+# Bitwise Operator
+# & performs binary AND
+# | performs binary OR
+# ^ performs a binary XOR operation
+# ~ performs a binary NOT operation
+# << shift left operation
+# >> shift right operation  
+
+# Identity Operator - is
+# membership Operator - in
+
+# Ternary Operator
+def is_adult(age):
+  if age > 18:
+    return True
+  else:
+    return False
+
+def is_adult2(age):
+  return True if age > 18 else False
