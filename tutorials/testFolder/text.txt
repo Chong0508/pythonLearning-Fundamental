@@ -1,0 +1,1 @@
+A .txt file is a type of file that stores plain text without any formatting, making it compatible across most operating systems and devices. These files are created and edited using basic text editors like Notepad on Windows or TextEdit on macOS and are suitable for simple text content such as notes, code, or reports.  
